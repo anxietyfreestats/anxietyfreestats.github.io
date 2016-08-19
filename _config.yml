@@ -9,7 +9,7 @@ description: "Statstical help for your dissertation"
 # Team names, titles and social links
 people:
 - name: Dr. Howard Andersen
-  pic: howard.png
+  pic: generic.png
   position: Statistical Consultant
 
 - name: Dr. Sean Ho
@@ -22,7 +22,7 @@ people:
       url: https://linkedin.com/seanho00
 
 - name: Rob Matula
-  pic: rob.png
+  pic: generic.png
   position: Statistical Consultant
 
 # Build settings
