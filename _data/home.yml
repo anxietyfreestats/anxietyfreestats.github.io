@@ -23,7 +23,6 @@ services:
 
 portfolio:
   heading: Portfolio
-#  subheading: Portfolio
 
 about:
   heading: About
@@ -56,11 +55,11 @@ team:
       role: Statistical Consultant
       img: img/team/rob.jpg
 
-clients:
-  - img: img/TWU-educ.gif
-    url: 'https://www.twu.ca/academics/school-education'
-  - img: img/TWU.jpg
-    url: 'https://www.twu.ca/academics/school-graduate-studies/counselling-psychology-ma'
+#clients:
+#  - img: img/TWU-educ.gif
+#    url: 'https://www.twu.ca/academics/school-education'
+#  - img: img/TWU.jpg
+#    url: 'https://www.twu.ca/academics/school-graduate-studies/counselling-psychology-ma'
 
 contact:
   heading: 'Contact Us'
