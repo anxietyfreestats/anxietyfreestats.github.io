@@ -65,7 +65,8 @@ contact:
   message: "Brief inquiry *"
   message-required: "Please enter a message."
   btn: Send
-  js-url: 'contact.php'
+  js-url: 'mailto:afs@seanho.com'
   js-success: "Thank you; we will contact you shortly"
   js-error: "Apologies, " + firstName + ", an error occurred; your information was not submitted"
   js-error-min: "Apologies, " + i + ", an error occurred; your information was not submitted"
+
