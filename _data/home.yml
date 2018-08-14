@@ -28,10 +28,10 @@ team:
   members:
     - name: Dr. Howard Andersen
       role: Statistical Consultant
-      img: assets/img/team/generic.svg
+      img: img/team/generic.svg
     - name: Dr. Sean Ho
       role: Statistical Consultant
-      img: assets/img/team/seanho.png
+      img: img/team/seanho.png
       social-buttons:
         - icon: fa-github
           url: https://github.com/seanho00
@@ -39,16 +39,16 @@ team:
           url: https://linkedin.com/seanho00
     - name: Rob Matula
       role: Statistical Consultant
-      img: assets/img/team/rob.jpg
+      img: img/team/rob.jpg
 
 clients:
-  - img: assets/img/TWU-educ.gif
+  - img: img/TWU-educ.gif
     url: https://www.twu.ca/academics/school-education
 
 contact:
   heading: Contact Us
   btn: Email
-  js-url: assets/js/contact_me.js
+  js-url: js/contact_me.js
   js-success: "Thank you; we will contact you shortly"
   js-error: "Apologies, an error occurred; your information was not submitted"
   js-error-min: "Error submitting form"
