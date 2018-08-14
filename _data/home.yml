@@ -28,10 +28,10 @@ team:
   members:
     - name: Dr. Howard Andersen
       role: Statistical Consultant
-      img: assets/img/generic.svg
+      img: assets/img/team/generic.svg
     - name: Dr. Sean Ho
       role: Statistical Consultant
-      img: assets/img/seanho.png
+      img: assets/img/team/seanho.png
       social-buttons:
         - icon: fa-github
           url: https://github.com/seanho00
@@ -39,7 +39,7 @@ team:
           url: https://linkedin.com/seanho00
     - name: Rob Matula
       role: Statistical Consultant
-      img: rob.jpg
+      img: assets/img/team/rob.jpg
 
 clients:
   - img: assets/img/TWU-educ.gif
