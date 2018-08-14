@@ -52,6 +52,8 @@ team:
 clients:
   - img: img/TWU-educ.gif
     url: 'https://www.twu.ca/academics/school-education'
+  - img: img/TWU.jpg
+    url: 'https://www.twu.ca/academics/school-graduate-studies/counselling-psychology-ma'
 
 contact:
   heading: Contact Us
