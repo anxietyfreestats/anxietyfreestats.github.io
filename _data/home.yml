@@ -9,16 +9,16 @@ services:
   service:
     - icon: fa fa-book
       heading: Dissertation Help
-      text: Your dissertation in social sciences, psychology, education, >
-        nursing, etc. needs well-thought-through analyses.  >
+      text: Your dissertation in social sciences, psychology, education, 
+        nursing, etc. needs well-thought-through analyses.  
         We're here to encourage and guide you.
     - icon: fa fa-bar-chart
       heading: Training Seminars
-      text: Need a quick refresher on SPSS, or a walkthrough to get you >
+      text: Need a quick refresher on SPSS, or a walkthrough to get you 
         started doing your own analyses?  Check out our 1-3 day seminars.
     - icon: fa fa-laptop
       heading: Teleconference Mentoring
-      text: Too busy to meet in person?  Out of town, or out of the >
+      text: Too busy to meet in person?  Out of town, or out of the 
         country?  Not a problem; we can meet you online.
 
 portfolio:
@@ -26,14 +26,14 @@ portfolio:
 
 about:
   heading: About
-  subheading: Anxiety-Free Stats was formed as a partnership of three >
-    people affiliated with Trinity Western University who are >
+  subheading: Anxiety-Free Stats was formed as a partnership of three 
+    people affiliated with Trinity Western University who are 
     passionate about assisting social scientists with data analysis.
   timeline:
     - image: img/about/1.jpg
       date: 2016-01-10
       title: Partnership
-      text: Initial project assisting three MA students in >
+      text: Initial project assisting three MA students in 
         TWU School of Education's new MAES-SPED program.
 
 team:
