@@ -1,12 +1,13 @@
 remote_theme: SotiriosVrachas/jekyll-theme-startbootstrap-agency
 
-url: https://anxietyfreestats.github.io/
-baseurl: ""
-
-# Site settings
 title: Anxiety-Free Stats!
-email: stats@seanho.com
 description: "Statstical help for your dissertation"
+author: 'afs@seanho.com'
+
+assets_path: 'assets'
+
+sass:
+  style: compressed
 
 # Team names, titles and social links
 people:
@@ -26,7 +27,3 @@ people:
 - name: Rob Matula
   pic: rob.jpg
   position: Statistical Consultant
-
-# Build settings
-markdown: kramdown
-permalink: pretty
