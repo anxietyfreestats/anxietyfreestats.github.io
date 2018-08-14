@@ -55,11 +55,11 @@ team:
       role: Statistical Consultant
       img: img/team/rob.jpg
 
-#clients:
-#  - img: img/TWU-educ.gif
-#    url: 'https://www.twu.ca/academics/school-education'
-#  - img: img/TWU.jpg
-#    url: 'https://www.twu.ca/academics/school-graduate-studies/counselling-psychology-ma'
+clients:
+  - img: img/TWU-educ.gif
+    url: 'https://www.twu.ca/academics/school-education'
+  - img: img/TWU.jpg
+    url: 'https://www.twu.ca/academics/school-graduate-studies/counselling-psychology-ma'
 
 contact:
   heading: 'Contact Us'
@@ -75,6 +75,6 @@ contact:
   btn: Send
   js-url: 'mailto:afs@seanho.com'
   js-success: "Thank you; we will contact you shortly"
-  js-error: "Apologies, " + firstName + ", an error occurred; your information was not submitted"
-  js-error-min: "Apologies, " + i + ", an error occurred; your information was not submitted"
+  js-error: 'Apologies, " + firstName + ", an error occurred; your information was not submitted'
+  js-error-min: 'Apologies, " + i + ", an error occurred; your information was not submitted'
 
