@@ -1,10 +1,14 @@
 brand:
   name: Anxiety-Free Stats
-#menu-string: Menu
+menu-string: Menu
 
-#nav:
-#  - title: 
-#    url:
+nav:
+  - title: Services
+    url: '#services'
+  - title: About
+    url: '#about'
+  - title: Team
+    url: '#team'
 
 copyright: '&copy; 2018 Anxiety-Free Stats'
 

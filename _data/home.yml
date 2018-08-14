@@ -1,4 +1,7 @@
-intro: 'Anxiety-Free Stats!'
+intro: 
+  lead-in: 'Anxiety-Free Stats!'
+  heading: 'Statistics Without Fear'
+  btn: 'Tell Me More'
 
 services:
   heading: Services
@@ -14,13 +17,18 @@ services:
       heading: Teleconference Mentoring
       text: "Too busy to meet in person?  Out of town, or out of the country?  Not a problem; we can meet you online."
 
-#portfolio:
-#  heading: Portfolio
+portfolio:
+  heading: Portfolio
 #  subheading: Portfolio
 
-#about:
-#  heading: About
-#  subheading: Anxiety-Free Stats was formed as a partnership from three people affiliated with Trinity Western University who are passionate about assisting social scientists with data analysis.
+about:
+  heading: About
+  subheading: Anxiety-Free Stats was formed as a partnership of three people affiliated with Trinity Western University who are passionate about assisting social scientists with data analysis.
+  timeline:
+    - image: img/about/1.jpg
+      date: 2016-01-10
+      title: Partnership
+      text: Initial project assisting three MA students in TWU School of Education's new MAES-SPED program.
 
 team:
   heading: Our Team
@@ -33,9 +41,9 @@ team:
       role: Statistical Consultant
       img: img/team/seanho.png
       social-buttons:
-        - icon: fa-github
+        - icon: fa fa-github
           url: https://github.com/seanho00
-        - icon: fa-linkedin
+        - icon: fa fa-linkedin
           url: https://linkedin.com/seanho00
     - name: Rob Matula
       role: Statistical Consultant
@@ -45,10 +53,10 @@ clients:
   - img: img/TWU-educ.gif
     url: https://www.twu.ca/academics/school-education
 
-contact:
-  heading: Contact Us
-  btn: Email
-  js-url: js/contact_me.js
-  js-success: "Thank you; we will contact you shortly"
-  js-error: "Apologies, an error occurred; your information was not submitted"
-  js-error-min: "Error submitting form"
+#contact:
+#  heading: Contact Us
+#  btn: Email
+#  js-url: 'contact.php'
+#  js-success: "Thank you; we will contact you shortly"
+#  js-error: "Apologies, " + firstName + ", an error occurred; your information was not submitted"
+#  js-error-min: "Apologies, " + i + ", an error occurred; your information was not submitted"
