@@ -51,7 +51,7 @@ team:
 
 clients:
   - img: img/TWU-educ.gif
-    url: https://www.twu.ca/academics/school-education
+    url: 'https://www.twu.ca/academics/school-education'
 
 contact:
   heading: Contact Us
