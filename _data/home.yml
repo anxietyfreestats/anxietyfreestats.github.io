@@ -14,13 +14,13 @@ services:
       heading: Teleconference Mentoring
       text: "Too busy to meet in person?  Out of town, or out of the country?  Not a problem; we can meet you online."
 
-portfolio:
-  heading: Portfolio
-  subheading: Portfolio
+#portfolio:
+#  heading: Portfolio
+#  subheading: Portfolio
 
-about:
-  heading: About
-  subheading: Anxiety-Free Stats was formed as a partnership from three people affiliated with Trinity Western University who are passionate about assisting social scientists with data analysis.
+#about:
+#  heading: About
+#  subheading: Anxiety-Free Stats was formed as a partnership from three people affiliated with Trinity Western University who are passionate about assisting social scientists with data analysis.
 
 team:
   heading: Our Team
