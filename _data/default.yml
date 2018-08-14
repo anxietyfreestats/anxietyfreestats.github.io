@@ -9,6 +9,8 @@ nav:
     url: '#about'
   - title: Team
     url: '#team'
+  - title: Contact
+    url: '#contact'
 
 copyright: '&copy; 2018 Anxiety-Free Stats'
 
