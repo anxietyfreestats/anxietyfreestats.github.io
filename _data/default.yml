@@ -1,12 +1,12 @@
 brand:
   name: Anxiety-Free Stats
-menu-string: Menu
+#menu-string: Menu
 
 #nav:
 #  - title: 
 #    url:
 
-copyright: '&copy; 2018 Sean Ho'
+copyright: '&copy; 2018 Anxiety-Free Stats'
 
 social-buttons:
   - icon: fa-envelope
