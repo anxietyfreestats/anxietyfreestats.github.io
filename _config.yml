@@ -8,22 +8,3 @@ assets_path: 'assets'
 
 sass:
   style: compressed
-
-# Team names, titles and social links
-people:
-- name: Dr. Howard Andersen
-  pic: generic.svg
-  position: Statistical Consultant
-
-- name: Dr. Sean Ho
-  pic: seanho.png
-  position: Statistical Consultant
-  social:
-    - title: github
-      url: https://github.com/seanho00
-    - title: linkedin
-      url: https://linkedin.com/seanho00
-
-- name: Rob Matula
-  pic: rob.jpg
-  position: Statistical Consultant

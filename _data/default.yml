@@ -1,0 +1,13 @@
+brand:
+  name: Anxiety-Free Stats
+menu-string: Menu
+
+#nav:
+#  - title: 
+#    url:
+
+copyright: &copy; 2018 Sean Ho
+
+social-buttons:
+  - icon: fa-envelope
+    url: mailto:afs@seanho.com
