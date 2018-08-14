@@ -6,7 +6,7 @@ menu-string: Menu
 #  - title: 
 #    url:
 
-copyright: &copy; 2018 Sean Ho
+copyright: '&copy; 2018 Sean Ho'
 
 social-buttons:
   - icon: fa-envelope
