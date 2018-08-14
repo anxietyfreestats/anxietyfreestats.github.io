@@ -53,10 +53,19 @@ clients:
   - img: img/TWU-educ.gif
     url: https://www.twu.ca/academics/school-education
 
-#contact:
-#  heading: Contact Us
-#  btn: Email
-#  js-url: 'contact.php'
-#  js-success: "Thank you; we will contact you shortly"
-#  js-error: "Apologies, " + firstName + ", an error occurred; your information was not submitted"
-#  js-error-min: "Apologies, " + i + ", an error occurred; your information was not submitted"
+contact:
+  heading: Contact Us
+  subheading: "We'd be happy to help you with the next step"
+  name: "Your Name *"
+  name-required: "Please enter your name."
+  email: "Your e-mail *"
+  email-required: "Please enter your email address."
+  phone: "Your phone *"
+  phone-required: "Please enter your phone number."
+  message: "Brief inquiry *"
+  message-required: "Please enter a message."
+  btn: Send
+  js-url: 'contact.php'
+  js-success: "Thank you; we will contact you shortly"
+  js-error: "Apologies, " + firstName + ", an error occurred; your information was not submitted"
+  js-error-min: "Apologies, " + i + ", an error occurred; your information was not submitted"
