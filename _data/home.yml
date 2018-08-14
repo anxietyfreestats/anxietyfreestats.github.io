@@ -63,7 +63,7 @@ clients:
     url: 'https://www.twu.ca/academics/school-graduate-studies/counselling-psychology-ma'
 
 contact:
-  heading: Contact Us
+  heading: 'Contact Us'
   subheading: "We would be happy to help you with the next step"
   name: "Your Name *"
   name-required: "Please enter your name."
