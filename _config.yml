@@ -4,7 +4,5 @@ title: Anxiety-Free Stats!
 description: "Statstical help for your dissertation"
 author: 'afs@seanho.com'
 
-assets_path: 'assets/'
-
 sass:
   style: compressed
