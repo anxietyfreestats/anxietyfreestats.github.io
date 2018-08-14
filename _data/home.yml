@@ -55,7 +55,7 @@ clients:
 
 contact:
   heading: Contact Us
-  subheading: "We'd be happy to help you with the next step"
+  subheading: "We would be happy to help you with the next step"
   name: "Your Name *"
   name-required: "Please enter your name."
   email: "Your e-mail *"
